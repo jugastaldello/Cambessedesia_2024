@@ -1,1 +1,1 @@
-Scripts and data from the analyses conducted in the study Assessing the Evolutionary Distinctiveness of a Highly Threatened Plant Group: The Urgency to Preserve a Unique Evolutionary Lineage in Brazil"
+Scripts and data from the analyses conducted in the study Assessing the Evolutionary Distinctiveness of a Highly Threatened Plant Group: The Urgency to Preserve a Unique Evolutionary Lineage in Brazil". Najla Bastos Scheidegger, Raquel C. Pizzardo, Bruno Vilela, Thuane Bochorny and Juliana Gastaldello Rando1
